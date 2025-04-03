@@ -1,0 +1,38 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f5f5f5;
+            background-image: url('Imagem\ do\ WhatsApp\ de\ 2025-03-26\ à\(s\)\ 21.15.21_471a70e1.jpg'); /* Nome da imagem */
+            background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
+            background-position: center; /* Centraliza a imagem */
+            background-attachment: fixed; /* Mantém o fundo fixo ao rolar a página */
+            background-repeat: no-repeat; /* Evita repetição da imagem */
+            font-family: Arial, sans-serif;
+            color: white; /* Para garantir legibilidade */
+            background-image: url('Imagem\ do\ WhatsApp\ de\ 2025-03-26\ à\(s\)\ 21.15.21_471a70e1.jpg');
+        }
+        header {
+            background: #050c3a;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background: #050c3a;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background: #050c3a;
+            
+        }
